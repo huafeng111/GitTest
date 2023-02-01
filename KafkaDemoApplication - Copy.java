@@ -1,4 +1,3 @@
-
 package com.codedecode.KafkaDemo;
 
 import org.springframework.boot.SpringApplication;
@@ -13,4 +12,3 @@ public class KafkaDemoApplication {
 	}
 
 }
-

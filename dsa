@@ -1,0 +1,30 @@
+[33mcommit 8f7fc50c1103492f81b3e7871dc1fcca36e00ddc[m[33m ([m[1;36mHEAD -> [m[1;32mRole2[m[33m, [m[1;31morigin/Role2[m[33m)[m
+Author: huafengmai <510826800@qq.com>
+Date:   Tue Jan 31 20:19:44 2023 -0800
+
+    Create KafkaDemoApplication - Copy.java
+
+[33mcommit c46c1bcfe8478d3596c9ee25770e6d8621735819[m
+Merge: 041da3c 07e42ee
+Author: huafengmai <510826800@qq.com>
+Date:   Tue Jan 31 20:13:40 2023 -0800
+
+    Merge branch 'Role1' into Role2
+
+[33mcommit 07e42eecd056619ac117cc057081f4961fc35421[m[33m ([m[1;31morigin/Role1[m[33m, [m[1;32mRole1[m[33m)[m
+Author: huafengmai <510826800@qq.com>
+Date:   Tue Jan 31 20:10:05 2023 -0800
+
+    Update KafkaDemoApplication.java
+
+[33mcommit 041da3ce123f2e607f4a2be147f4d42cd4defd52[m
+Author: huafengmai <510826800@qq.com>
+Date:   Tue Jan 31 20:03:15 2023 -0800
+
+    KafkaDemoApplication.java
+
+[33mcommit 9fe62235343e53007208f4b1b39c8bab15c79361[m
+Author: huafengmai <510826800@qq.com>
+Date:   Tue Jan 31 19:46:07 2023 -0800
+
+    Create KafkaDemoApplication.java
